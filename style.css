@@ -103,3 +103,21 @@ footer {
     padding: 15px;
     font-size: 0.9rem;
 }
+
+.btn-whatsapp {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 22px;
+    background-color: #25D366;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-whatsapp:hover {
+    background-color: #1ebe5d;
+    transform: scale(1.05);
+}
